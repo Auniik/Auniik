@@ -20,6 +20,8 @@
 
 ## Current Projects
 
+- 📈 **[dse-ai](https://github.com/Auniik/dse-ai)** – AI agents friendly Dhaka Stock exchange from the terminal. Structured and optimized output.
+- 📊 **[shanta-ai](https://github.com/Auniik/shanta-ai)** – Add-on CLI for `dse-ai`, Serves portfolio from Shanta Securities Ltd.
 - 🤖 **[coda-ai](https://github.com/Auniik/coda-ai)** – AI agents can talk to Coda.io from the terminal. Structured output. AI-ready.
 - 📝 **[md-studio](https://github.com/Auniik/md-studio)** – Markdown-first CMS for FastAPI & Starlette. Clean, headless, FastAPI-native.
 - 📅 **[timesheet](https://github.com/Auniik/timesheet)** – Drag, drop, log. macOS Jira time tracking with calendar view & secure credential storage.
