@@ -26,7 +26,7 @@
 - 📝 **[md-studio](https://github.com/Auniik/md-studio)** – Markdown-first CMS for FastAPI & Starlette. Clean, headless, FastAPI-native.
 - 📅 **[timesheet](https://github.com/Auniik/timesheet)** – Drag, drop, log. macOS Jira time tracking with calendar view & secure credential storage.
 - 🧠 **[CommitPilot](https://github.com/Auniik/CommitPilot)** – Smarter Git commit hook with JIRA linking, emoji tagging, and terminal-native time logging.
-- 🐘 **[php-skeleton](https://github.com/Auniik/php-skeleton)** – Minimal PHP bootstrapper including router, container zero framework overhead.
+- 🐘 **[skeleton](https://github.com/Auniik/skeleton)** – FastAPI inspired PHP bootstrapper including router, container zero framework overhead.
 
 ---
 
